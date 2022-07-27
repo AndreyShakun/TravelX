@@ -1465,15 +1465,15 @@ textarea.input {
   padding-top: 1.875rem;
 }
 
-@supports (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__activities {
-    margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem );
+    margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem );
   }
 }
 
-@supports not (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports not (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__activities {
-    margin-top: calc(0.0000000625rem + 6.6874999375 * (100vw - 61.99875rem) / 58.00125);
+    margin-top: calc(1.25rem + 5.4375 * (100vw - 61.99875rem) / 58.00125);
   }
 }
 
@@ -1481,15 +1481,15 @@ textarea.input {
   padding-top: 1.875rem;
 }
 
-@supports (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__aboutus {
-    margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem );
+    margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem );
   }
 }
 
-@supports not (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports not (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__aboutus {
-    margin-top: calc(0.0000000625rem + 6.6874999375 * (100vw - 61.99875rem) / 58.00125);
+    margin-top: calc(1.25rem + 5.4375 * (100vw - 61.99875rem) / 58.00125);
   }
 }
 
@@ -1498,15 +1498,15 @@ textarea.input {
   position: relative;
 }
 
-@supports (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__hotels {
-    margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem );
+    margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem );
   }
 }
 
-@supports not (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports not (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__hotels {
-    margin-top: calc(0.0000000625rem + 6.6874999375 * (100vw - 61.99875rem) / 58.00125);
+    margin-top: calc(1.25rem + 5.4375 * (100vw - 61.99875rem) / 58.00125);
   }
 }
 
@@ -1537,15 +1537,15 @@ textarea.input {
   padding-top: 1.875rem;
 }
 
-@supports (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__partners {
-    margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem );
+    margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem );
   }
 }
 
-@supports not (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports not (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__partners {
-    margin-top: calc(0.0000000625rem + 6.6874999375 * (100vw - 61.99875rem) / 58.00125);
+    margin-top: calc(1.25rem + 5.4375 * (100vw - 61.99875rem) / 58.00125);
   }
 }
 
@@ -1553,27 +1553,27 @@ textarea.input {
   padding-top: 1.875rem;
 }
 
-@supports (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__reviews {
-    margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem );
+    margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem );
   }
 }
 
-@supports not (margin-top: clamp( 0.0000000625rem , -7.1484085796rem  +  11.5299238163vw , 6.6875rem )) {
+@supports not (margin-top: clamp( 1.25rem , -4.5622575483rem  +  9.3747979569vw , 6.6875rem )) {
   .page__reviews {
-    margin-top: calc(0.0000000625rem + 6.6874999375 * (100vw - 61.99875rem) / 58.00125);
+    margin-top: calc(1.25rem + 5.4375 * (100vw - 61.99875rem) / 58.00125);
   }
 }
 
-@supports (margin-bottom: clamp( 0.0000000625rem , -15.1653155428rem  +  24.460679619vw , 14.1875rem )) {
+@supports (margin-bottom: clamp( 1.25rem , -12.5791645115rem  +  22.3055537596vw , 14.1875rem )) {
   .page__reviews {
-    margin-bottom: clamp( 0.0000000625rem , -15.1653155428rem  +  24.460679619vw , 14.1875rem );
+    margin-bottom: clamp( 1.25rem , -12.5791645115rem  +  22.3055537596vw , 14.1875rem );
   }
 }
 
-@supports not (margin-bottom: clamp( 0.0000000625rem , -15.1653155428rem  +  24.460679619vw , 14.1875rem )) {
+@supports not (margin-bottom: clamp( 1.25rem , -12.5791645115rem  +  22.3055537596vw , 14.1875rem )) {
   .page__reviews {
-    margin-bottom: calc(0.0000000625rem + 14.1874999375 * (100vw - 61.99875rem) / 58.00125);
+    margin-bottom: calc(1.25rem + 12.9375 * (100vw - 61.99875rem) / 58.00125);
   }
 }
 
@@ -2872,6 +2872,10 @@ textarea.input {
 
   .icon-menu:hover span {
     width: 100%;
+  }
+
+  .menu-open .icon-menu span:hover {
+    width: 0;
   }
 
   .footer__copy a:hover {
