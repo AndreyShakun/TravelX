@@ -1263,7 +1263,7 @@ textarea.input {
 }
 
 .menu-open .icon-menu span {
-  width: 0;
+  display: none;
 }
 
 .menu-open .icon-menu::before {
@@ -2872,10 +2872,6 @@ textarea.input {
 
   .icon-menu:hover span {
     width: 100%;
-  }
-
-  .menu-open .icon-menu span:hover {
-    width: 0;
   }
 
   .footer__copy a:hover {
